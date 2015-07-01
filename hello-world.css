@@ -11,3 +11,15 @@ p {
 img {
     width: 30%;
 }
+
+.container {
+  margin: 0 auto;
+}
+
+.container2 {
+  width: 960px;
+  margin: 0 auto;
+}
+body {
+    background: url("paisley.png");
+}
